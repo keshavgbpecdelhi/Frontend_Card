@@ -1,6 +1,4 @@
-# Hello dear, things you will need is mention hear.
-# Thanks for applying with alchemial, Happy coding!!
-
+# Alchemial
 
 **To do this challenge, you need a basic understanding of HTML and CSS.**
 
