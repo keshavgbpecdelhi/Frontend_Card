@@ -34,7 +34,4 @@ Your users should be able to:
 
 font-family: 'Lato', sans-serif;
 
-## For any further help feel free to contact us at hr@alchemial.com 
-
-
-**Thankyou**
+## For any further help feel free to contact.
